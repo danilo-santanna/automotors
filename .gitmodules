@@ -1,0 +1,12 @@
+[submodule "client-service"]
+	path = client-service
+	url = https://github.com/danilo-santanna/client-service.git
+[submodule "orders-service"]
+	path = orders-service
+	url = https://github.com/danilo-santanna/orders-service.git
+[submodule "vehicles-service"]
+	path = vehicles-service
+	url = https://github.com/danilo-santanna/vehicles-service.git
+[submodule "automotors-terraform"]
+	path = automotors-terraform
+	url = https://github.com/danilo-santanna/automotors-terraform.git
